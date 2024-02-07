@@ -1,1 +1,2 @@
 # admin-dashboard
+This is my first attempt at using grid to design a layout. I have extensively used grid in this project to practice it. I could do a little more tweaking but for now as my objective was to achieve the layout which I have, I will do minor adjustments later, maybe will come back to this after learning more javascript to add some features or make it a completely functional website. But that's all for now. 
